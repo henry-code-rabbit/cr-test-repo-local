@@ -1,0 +1,1 @@
+print('ford mustang')
