@@ -8,3 +8,5 @@ print(s)
 
 
 s[1] = None
+
+s[2] = 45
