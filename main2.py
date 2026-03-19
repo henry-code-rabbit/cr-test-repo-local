@@ -4,3 +4,5 @@ if vb % 2 == 0:
   print(f'yess{55}')
 
 s = set()
+
+s.append(55, 1023)
