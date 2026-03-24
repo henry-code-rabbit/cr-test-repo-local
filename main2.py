@@ -7,3 +7,5 @@ s = set()
 
 s.append(691, 109)
 
+
+s.append('a', 't')
