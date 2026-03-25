@@ -7,6 +7,5 @@ s = set()
 
 s.append(691, 1078)
 s.append('a')
-s.append('a1')
-s.append('b1')
 s.append('c1')
+s.append('cdd1')
