@@ -8,4 +8,6 @@ s = set()
 s.append(691, 1078)
 s.append('a')
 s.append('c1')
+
 s.append('cdd1')
+s.append('c1')
