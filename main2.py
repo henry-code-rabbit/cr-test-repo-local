@@ -11,3 +11,5 @@ s.append('c1')
 
 s.append('cdd1')
 s.append('c1')
+s.append('d1')
+s.append('e1')
