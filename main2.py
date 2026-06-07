@@ -5,5 +5,11 @@ if vb % 2 == 0:
 
 s = set()
 
-s[1] = 82
-s[2] = vb
+s.append(691, 1078)
+s.append('a')
+s.append('c1')
+
+s.append('cdd1')
+s.append('c1')
+s.append('d1')
+s.append('e1')

@@ -2,11 +2,14 @@
 
 s = set()
 
-s.append(1 , 98)
-
 print(s)
 
-s[0] = 901
-s[1] = None
+print('hi')
+print('hi665')
+# change 1
+# change 2
+# change 3
 
-s[2] = 45
+
+s = set()
+s.append('s2')
